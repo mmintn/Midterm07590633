@@ -1,0 +1,16 @@
+<resources>
+    <string name="Login">LOGIN</string>
+    <string name="app_name" translatable="false">Midterm 07590633</string>
+    <string name="Login_To_en">Login To Facebook</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Add">Add to Story</string>
+    <string name="edit">Edit Profile</string>
+    <string name="view">View as</string>
+    <string name="from">From</string>
+    <string name="live">Live in</string>
+    <string name="gose">Gose to</string>
+    <string name="more">More</string>
+
+
+</resources>
